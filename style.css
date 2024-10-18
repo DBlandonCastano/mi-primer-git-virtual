@@ -2,3 +2,12 @@
     font-size: 45px;
     color: blueviolet;
 }
+.cuadrado{
+    margin: 0 auto;
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+    border: 10px solid black;
+    border-style: double;
+    border-radius: 25px;
+}
